@@ -37,8 +37,6 @@ const navItems = [
   { href: "/admin/rbac", label: "RBAC", icon: ShieldCheck },
   { href: "/admin/assinaturas", label: "Assinaturas", icon: Wallet },
   { href: "/admin/turmas-b2b", label: "Turmas B2B", icon: Users },
-  { href: "/admin/experiencia-aluno", label: "Experiência Aluno", icon: Activity },
-  { href: "/admin/deploy", label: "Deploy", icon: Rocket },
   { href: "/admin/ia-tutoria", label: "IA Tutoria", icon: Bot },
   { href: "/admin/lab-dados", label: "Lab Dados", icon: FlaskConical },
   { href: "/admin/gestao-pedagogica", label: "Gestão Pedagógica", icon: GraduationCap },
